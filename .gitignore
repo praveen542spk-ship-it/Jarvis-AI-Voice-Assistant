@@ -1,0 +1,24 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# OS Metadata
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Logs
+*.log
+jarvis_debug.log
+
+# Temporary Vision/Launcher files
+scratch/
+vision_temp.png
+launcher_error.txt
+launcher_out.txt
+launcher_pid.txt
+groq_key.txt
+news_key.txt
+weather_key.txt
+
